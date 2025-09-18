@@ -1,0 +1,35 @@
+.venv
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python virtual environment
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

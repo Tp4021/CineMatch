@@ -1,4 +1,4 @@
-.venv
+cinematch_env
 # macOS system files
 .DS_Store
 .AppleDouble
@@ -33,3 +33,5 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+data/rotten_tomatoes_movie_reviews.csv
+data/rotten_tomatoes_movies.csv
